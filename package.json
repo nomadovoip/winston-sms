@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/nomadovoip/winston-sms#readme",
   "devDependencies": {
-    "jest": "^24.9.0"
+    "jest": "^24.9.0",
+    "winston": "^3.2.1"
   }
 }
